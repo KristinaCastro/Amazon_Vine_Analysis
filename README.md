@@ -10,3 +10,6 @@ We are tasked with analyzing Amazon reviews written by members of the paid Amazo
 
 
   - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+
+## Summary
