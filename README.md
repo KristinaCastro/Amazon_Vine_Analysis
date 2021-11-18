@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
 ## Overview of the analysis:
-We are tasked with analyzing Amazon reviews written by members of the paid Amazon Vine program, where select members of Amazon's reviewer community are compensated to review sample products & allows manufacturers and publishers to receive reviews for their products. The Amazon Vine program is a service where companies pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review. The primary objective of this analysis is to determine if there is any bias toward favorable reviews from Vine members in the available dataset.
+We are tasked with analyzing Amazon reviews from the paid Amazon Vine program, where select members of Amazon's reviewer community are compensated to review sample products & also allows manufacturers and publishers to receive reviews for their products. The Amazon Vine program is a service where companies pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review. The primary objective of this analysis is to determine if there is any bias toward favorable reviews from the Amazon Vine members compared to non Amazon Vine program members in the available dataset.
 
 ## Results 
 Below is the extracted Vine table from the dataset:
